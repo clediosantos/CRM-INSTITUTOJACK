@@ -1,0 +1,8 @@
+{
+  "name": "Remix Aura Salon - CRM Moderno para Salão de Beleza",
+  "description": "Sistema moderno de gestão e CRM para salão de beleza e estética com Copiloto e Agente de IA integrado, anamnese técnica, agendamentos, serviços e régua de relacionamento via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
